@@ -1,0 +1,1 @@
+docker_image         = "musharraf1716/simple-time-service:latest"
